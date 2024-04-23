@@ -8,3 +8,4 @@
 # ML ASSIGNMENT-3 https://github.com/pranaykarre/AIML-2024/blob/main/ML_A3(2203A51706).ipynb
 # ML ASSIGNMENT-4 https://github.com/pranaykarre/AIML-2024/blob/main/ML_A4(2203A51706).ipynb
 # ML ASSIGNMENT-5 https://github.com/pranaykarre/AIML-2024/blob/main/ML_05(2203A51706).ipynb
+# ML ASSIGNMENT-6 https://github.com/pranaykarre/AIML-2024/blob/main/ML_A6(2203A51706).ipynb
